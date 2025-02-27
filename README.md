@@ -23,7 +23,7 @@ Follow these steps to set up and run the project on your machine manually:
 ##  Note  
 Ensure Required Files Exist  
 
-The program requires the following text files in the same directory:  
+The program requires the following text files **in the same directory**:  
 - `Currencies.txt`  
 - `Users.txt`  
 - `LoginRegister.txt`  
