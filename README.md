@@ -4,6 +4,16 @@
 This file-based project simulates real-world banking operations with a strong focus on **security, account management, user management, and financial transactions**.  
 The system prevents unauthorized access by automatically locking after three consecutive failed login attempts.  
 The system ensures that users without the required permissions cannot perform restricted operations.  
+##  Notes
+
+Defualt user to login : 
+
+username : User1
+
+password : 1234
+
+All Phone Numbers And Emails are fake 
+
 
 ## 🛠 Installation Steps  
 
